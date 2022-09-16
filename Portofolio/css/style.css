@@ -293,7 +293,7 @@ footer p:nth-child(2){
 	font-size: 20px;
 }
 .social a:hover{
-	transform: scale(1.3);
+	transform: scale(1.5);
 	transition: .3s;
 }
 .end{
@@ -302,3 +302,5 @@ footer p:nth-child(2){
 	bottom: 35px;
 	font-size: 14px; 
 }
+
+					
